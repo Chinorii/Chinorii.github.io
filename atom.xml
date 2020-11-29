@@ -6,7 +6,7 @@
   <link href="https://chinorii.github.io/atom.xml" rel="self"/>
   
   <link href="https://chinorii.github.io/"/>
-  <updated>2020-11-28T07:58:36.559Z</updated>
+  <updated>2020-11-29T10:26:27.906Z</updated>
   <id>https://chinorii.github.io/</id>
   
   <author>
@@ -15,6 +15,19 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>test</title>
+    <link href="https://chinorii.github.io/2020/11/29/test/"/>
+    <id>https://chinorii.github.io/2020/11/29/test/</id>
+    <published>2020-11-29T10:26:27.000Z</published>
+    <updated>2020-11-29T10:26:27.906Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
